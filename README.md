@@ -1,18 +1,17 @@
-# VPN IP Qatar — Dr VPN
+# VPN IP Qatar — Fast, Secure VPN for Qatar
 
-**VPN IP Qatar** is a fast, secure and free VPN for Android. Get a **Qatar IP address**, unblock websites and apps, and protect your privacy on public Wi-Fi.
+**VPN IP Qatar** is a free, open-source, ad-free VPN app for Android, built for users in Qatar. It unblocks websites and apps, protects your privacy on public Wi-Fi, and gives you a fast, stable connection.
 
 ## Download
-- 📥 [Download VPN IP Qatar (APK)](https://github.com/DrvpnTM/app/releases/download/countries-v0.1.4/DrVPN_qa_0.1.4_universal.apk)
-- 🌐 Website: [drvpn.net](https://drvpn.net)
-- 📢 Telegram: [@drVPN_net](https://t.me/drVPN_net)
+➡️ [Download the latest APK](https://github.com/DrvpnTM/vpn-ip-qatar/releases/latest)
 
 ## Features
-- One-tap connect, automatic fastest-server selection
-- Qatar IP address and servers in many other countries
-- VLESS, VMess, Trojan, Shadowsocks, Hysteria2, WireGuard
-- Works under heavy internet restrictions
-- Free and open source
+- One-tap connect, automatic server speed test
+- VLESS, VMess, Reality, Trojan, Shadowsocks, Hysteria2, WireGuard
+- Per-app proxy, routing rules, dark mode
+- Automatic updates
 
-## Keywords
-VPN Qatar, Qatar VPN, VPN IP Qatar, Qatar IP address, free VPN Qatar, buy VPN Qatar, fast VPN Qatar, Dr VPN
+## Get a subscription
+🌐 [drvpn.net](https://drvpn.net/) · 📢 [Telegram @drVPN_net](https://t.me/drVPN_net)
+
+<sub>Keywords: VPN Qatar, free VPN Qatar, fast VPN, VPN IP Qatar, Android VPN, unblock websites Qatar.</sub>
